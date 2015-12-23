@@ -12,4 +12,4 @@ Built & Tested on Oracle 11g.
 
 Entity Relationship Diagram
 -------------
-![Entity Relationship Diagram](https://i.gyazo.com/7bfa36db3f5260c7455b4de63f7d0a01.png)
+![Entity Relationship Diagram](http://i.imgur.com/LVFbzjd.png)
